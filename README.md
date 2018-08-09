@@ -1,5 +1,6 @@
 # Analyzing-Visualizing-Data-PowerBI
 
+
 ![Analyzing-Visualizing-Data-PowerBI](https://www.edx.org/sites/default/files/course/image/promoted/dat207x-course_card_image11122015-378x225.png)
 
 This repository contains the lab files and other resources for the free Microsoft course DAT207x: Analyzing and Visualizing Data with Power BI. To learn how to connect, explore, and visualize data with Power BI, sign up for this course on [edX](https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x).
